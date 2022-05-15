@@ -1,8 +1,5 @@
 package core;
 
-import java.util.Arrays;
-import java.util.UUID;
-
 import org.json.JSONObject;
 
 public class Main {
@@ -40,5 +37,7 @@ public class Main {
                 System.out.println(object);
             }
         }
+
+        new JSONObject().put("sda");
     }
 }
