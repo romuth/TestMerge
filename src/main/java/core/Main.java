@@ -43,6 +43,7 @@ public class Main {
         "testCommit"
         "testCommit2"
         "testCommit3"
+
         "master commit1";
     }
 }
